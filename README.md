@@ -19,6 +19,6 @@ Sort It Out is a visually appealing web application that helps users understand 
 #### Responsive Design
 - User friendly across all types of devices.
 
-Currently Deployed on GitHub Pages
+Currently Deployed on GitHub Pages,
 Link : https://niyatizzz.github.io/SortItOut/
 
